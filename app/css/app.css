@@ -1,0 +1,163 @@
+
+
+/* tabuleiro */
+
+#board {
+  display: table;
+  margin: auto;
+}
+
+.cell {
+  width: 70px;
+  height: 70px;
+  margin: 0px 10px 10px 0px;
+  background: #ddd;
+  float: left;
+}
+
+.column-1 {
+  clear: both;
+}
+
+
+/* player */
+
+.player {
+  display: block;
+  margin: auto;
+  width: 35px;
+  height: 35px;
+  position: relative;
+  top: 19px;
+  text-align: center;
+  line-height: 2.2em;
+  cursor: pointer;
+  border-radius: 18px;
+}
+
+.red {
+  background: red;
+}
+
+.blue {
+  background: green;
+}
+
+.yellow {
+  background: black;
+}
+
+.green {
+  background: blue;
+}
+
+/* borders */
+
+.border {
+  cursor: pointer;
+  display: block;
+  position: relative;
+  z-index: 100;
+}
+
+
+  .border.cercada, .border.conjugada, .border:hover {
+    background: #888;
+  }
+
+    .border.conjugada.top, .border.conjugada.down {
+      width: 100%;
+    }
+
+    .border.conjugada.left, .border.conjugada.right {
+      height: 100%;
+    }
+
+
+  .border.top, .border.down {
+    width: 150px;
+    height: 10px;
+    left: 0px;
+    float: left;
+  }
+
+    .border.top {
+      top: -45px;
+    }
+
+    .border.down {
+      top: -125px;
+    }
+    
+      .row-1 .border.down {
+        top: -115px;
+      }
+
+      .column-9 .border.top, .column-9 .border.down {
+        z-index: 50;
+        width: 100%;
+      }
+
+
+  .border.left, .border.right {
+    top: -45px;
+    height: 150px;
+    width: 10px;
+  }
+
+    .border.left {
+      left: -10px;
+      float: left;
+    }
+
+    .border.right {
+      left: 10px;
+      float: right;
+    }
+    
+      .row-1 .border.left, .row-1 .border.right {
+        top: -35px;
+      }
+
+      .row-9 .border.left, .row-9 .border.right {
+        z-index: 50;
+        height: 100%;
+      }
+
+
+  .column-1 .border.left, .column-9 .border.right, .row-1 .border.top, .row-9 .border.down {
+    cursor: auto;
+    background: transparent;
+  }
+
+
+/* app css stylesheet */
+
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.menu:before {
+  content: "[";
+}
+
+.menu:after {
+  content: "]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+
+.menu > li:nth-child(1):before {
+  content: "";
+  padding: 0;
+}

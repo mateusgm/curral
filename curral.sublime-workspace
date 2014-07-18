@@ -1,0 +1,2941 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rodada",
+				"rodada_simulada"
+			],
+			[
+				"roda",
+				"rodada_simulada"
+			],
+			[
+				"ini",
+				"inicializa_distancia"
+			],
+			[
+				"dis",
+				"distancia_precalculada"
+			],
+			[
+				"di",
+				"distancia"
+			],
+			[
+				"cell",
+				"cell_or_scope"
+			],
+			[
+				"constroi",
+				"constroi_mapa"
+			],
+			[
+				"player",
+				"player"
+			],
+			[
+				"distan",
+				"distancias"
+			],
+			[
+				"camin",
+				"caminho_id"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"con",
+				"conjugada"
+			],
+			[
+				"build_",
+				"build_players"
+			],
+			[
+				"pre",
+				"precompile"
+			],
+			[
+				"Contactad",
+				"Contactados"
+			],
+			[
+				"remote",
+				"remote_modal_options"
+			],
+			[
+				"telef",
+				"contato_telefone1_ddd"
+			],
+			[
+				"question",
+				"questionarios"
+			],
+			[
+				"questionario",
+				"questionario_ids"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"par",
+				"participante_grupos"
+			],
+			[
+				"resou",
+				"resource_class"
+			],
+			[
+				"atenden",
+				"atendente_ligando_id"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"partici",
+				"participantes"
+			],
+			[
+				"gri",
+				"grid_box_hover"
+			],
+			[
+				"eli",
+				"elseif	elseif …"
+			],
+			[
+				"rsa",
+				"rsa_url"
+			],
+			[
+				"find",
+				"find_by_crm"
+			],
+			[
+				"E",
+				"ESTADO_COMERCIAL_"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"public",
+				"public_key"
+			],
+			[
+				"url",
+				"urldecode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"publi",
+				"public_key"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"carou",
+				"carousel-info"
+			],
+			[
+				"im",
+				"imagens"
+			],
+			[
+				"imagem",
+				"imagem_secundaria"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"tari",
+				"tarifa"
+			],
+			[
+				"redi",
+				"redirect_home_in_2m"
+			],
+			[
+				"lca",
+				"location"
+			],
+			[
+				"not",
+				"noticia"
+			],
+			[
+				"noticia",
+				"noticias"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"CSV",
+				"CSVToArray"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"TESOU",
+				"TESOURO_TMP"
+			],
+			[
+				"TES",
+				"TESOURO_IMP"
+			],
+			[
+				"TESOURO",
+				"TESOURO_PRC"
+			],
+			[
+				"TESOUR",
+				"TESOURO_PRC"
+			],
+			[
+				"RS",
+				"RS"
+			],
+			[
+				"PR",
+				"PR"
+			],
+			[
+				"IPCA",
+				"IPCA_ANUAL"
+			],
+			[
+				"em",
+				"empresa_id"
+			],
+			[
+				"perg",
+				"pergunta_base"
+			],
+			[
+				"norm",
+				"normalizavel"
+			],
+			[
+				"va",
+				"valor_apurado"
+			],
+			[
+				"pergun",
+				"pergunta_pai_id"
+			],
+			[
+				"pergunta",
+				"pergunta_pai"
+			],
+			[
+				"capi",
+				"capital_nacional"
+			],
+			[
+				"capital",
+				"capital_estrangeiro"
+			],
+			[
+				"respo",
+				"resposta_multipla"
+			],
+			[
+				"dow",
+				"downcase"
+			],
+			[
+				"da",
+				"da_empresa"
+			],
+			[
+				"p_maio",
+				"p_maiores_1000"
+			],
+			[
+				"ne",
+				"next_call_final"
+			],
+			[
+				"next_",
+				"next_call_inicio"
+			],
+			[
+				"ultimo",
+				"ultimo_contato_antes_de"
+			],
+			[
+				"company",
+				"company_id"
+			],
+			[
+				"so",
+				"socioambiental"
+			],
+			[
+				"fich",
+				"ficha_cadastral"
+			],
+			[
+				"ino",
+				"inovacao"
+			],
+			[
+				"vi",
+				"visao_futuro"
+			],
+			[
+				"gover",
+				"governanca_corporativa"
+			],
+			[
+				"Ficha",
+				"FichaCadastral"
+			],
+			[
+				"preench",
+				"preenchido"
+			],
+			[
+				"res",
+				"respondidos"
+			],
+			[
+				"maior",
+				"maiores_1000"
+			],
+			[
+				"fina",
+				"financa"
+			],
+			[
+				"status",
+				"status_contacts"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"rec",
+				"recursos_humano"
+			],
+			[
+				"update_",
+				"update_attribute"
+			],
+			[
+				"route",
+				"routeProvider"
+			],
+			[
+				"w",
+				"w	attr_writer .."
+			],
+			[
+				"gc30_13",
+				"gc30_13_hook"
+			],
+			[
+				"GC3_",
+				"GC3_2_13"
+			],
+			[
+				"GC",
+				"GC9_0"
+			],
+			[
+				"GC4",
+				"GC4_13"
+			],
+			[
+				"gc49",
+				"GC49_13_2012"
+			],
+			[
+				"VF25",
+				"VF25_3_13"
+			],
+			[
+				"VF2_",
+				"VF2_5_15"
+			],
+			[
+				"bita",
+				"bitand_range"
+			],
+			[
+				"update",
+				"update_attributes"
+			],
+			[
+				"RH",
+				"rh28_13  (function)"
+			],
+			[
+				"verifica",
+				"verifica_soma2"
+			],
+			[
+				"lam",
+				"lambda"
+			],
+			[
+				"nao",
+				"nao_foram_contactadas"
+			],
+			[
+				"nao_",
+				"nao_foram_contactadas"
+			],
+			[
+				"particip",
+				"participaram_2012"
+			],
+			[
+				"re",
+				"reject"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"contac",
+				"contacts"
+			],
+			[
+				"ALIAS",
+				"ALIAS_SUFFIX_DOMAIN"
+			],
+			[
+				"each",
+				"each_with_index"
+			],
+			[
+				"atr",
+				"atracao"
+			],
+			[
+				"cida",
+				"cidade"
+			],
+			[
+				"ba",
+				"bairro"
+			],
+			[
+				"ge",
+				"getId  (function)"
+			],
+			[
+				"s",
+				"score"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/js/services/game.js",
+			"settings":
+			{
+				"buffer_size": 2716,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/services/cell.js",
+			"settings":
+			{
+				"buffer_size": 3262,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/services/player.js",
+			"settings":
+			{
+				"buffer_size": 690,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/css/app.css",
+			"settings":
+			{
+				"buffer_size": 2162,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/partials/partial1.html",
+			"settings":
+			{
+				"buffer_size": 473,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/services/border.js",
+			"settings":
+			{
+				"buffer_size": 1706,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 1047,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"selected_items":
+		[
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - Default"
+			],
+			[
+				"setu",
+				"Preferences: Settings - User"
+			],
+			[
+				"conf",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"cl",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"fil",
+				"File: Close All"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"lose",
+				"File: Close All"
+			],
+			[
+				"folde",
+				"Project: Add Folder"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"file clo",
+				"File: Close All"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"duplica",
+				"File: Duplicate"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"proj",
+				"Project: Add Folder"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"si",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mateus/work/uololou/gestao/estrutura/server-pass",
+		"/home/mateus/entertainment/videos/Rushmore (1998)/Rushmore.1998.720p.BluRay.x264.YIFY.srt",
+		"/home/mateus/entertainment/videos/Epic (2013)/Epic.2013.720p.BluRay.x264.YIFY.srt",
+		"/home/mateus/desktop/curral/app/js/controllers.js",
+		"/home/mateus/desktop/curral/app/js/services/border.js",
+		"/home/mateus/desktop/curral/app/partials/partial1.html",
+		"/home/mateus/desktop/curral/app/js/services/cell.js",
+		"/home/mateus/desktop/curral/app/js/services/game.js",
+		"/home/mateus/desktop/curral/app/js/services/player.js",
+		"/home/mateus/desktop/curral/app/js/app.js",
+		"/home/mateus/desktop/curral/app/css/app.css",
+		"/home/mateus/desktop/curral/app/index.html",
+		"/home/mateus/desktop/integratum/old/app/views/researches/revistas.html.erb",
+		"/home/mateus/desktop/integratum/old/config/routes.rb",
+		"/home/mateus/desktop/integratum/old/app/controllers/researches_controller.rb",
+		"/home/mateus/desktop/integratum/old/app/models/company.rb",
+		"/home/mateus/desktop/integratum/novo/app/app/models/ligacao.rb",
+		"/home/mateus/desktop/integratum/novo/app/app/models/participante.rb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/participantes/ligacoes/_form_fields.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/participantes/participantes/show.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/controllers/participantes/ligacoes_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/assets/javascripts/uou_rails/linkable_table.js.coffee",
+		"/home/mateus/desktop/integratum/novo/app/app/views/conteudo/_sidebar.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/assets/javascripts/participantes.js.coffee.erb",
+		"/home/mateus/desktop/integratum/novo/app/db/seeds.rb",
+		"/home/mateus/desktop/integratum/novo/app/Gemfile",
+		"/home/mateus/desktop/integratum/novo/app/db/migrate/20131119135923_create_mensagens.rb",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/views/layouts/sections/_footer.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/views/layouts/application.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/helpers/uou_rails/application_helper.rb",
+		"/home/mateus/desktop/integratum/novo/app/config/application.rb",
+		"/home/mateus/desktop/integratum/novo/app/config/environments/production.rb",
+		"/home/mateus/desktop/integratum/novo/app/app/controllers/participantes/participacoes_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/participantes/participacoes/edit.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/config/database.yml",
+		"/home/mateus/desktop/integratum/novo/app/doc/seed-2013/grupos.csv",
+		"/home/mateus/desktop/integratum/novo/app/app/controllers/evolucao/ligacoes_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/app/controllers/evolucao/pesquisas_controller.rb",
+		"/home/mateus/desktop/integratum/novo/docs/sitemap.txt",
+		"/home/mateus/desktop/integratum/novo/app/app/assets/javascripts/evolucao.js",
+		"/home/mateus/desktop/integratum/novo/app/app/views/application/_header.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/evolucao/_sidebar.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/evolucao/pesquisas/dashboard.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/config/routes.rb",
+		"/home/mateus/desktop/integratum/novo/app/log/production.log",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/helpers/uou_rails/modal_helper.rb",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/assets/javascripts/uou_rails/remote_modal.js.coffee",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/assets/javascripts/uou_rails/remote_link.js.coffee",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/assets/stylesheets/uou_rails/uou_rails.css.scss",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/assets/javascripts/uou_rails/uou_rails.js",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/assets/javascripts/uou_rails/disabled_links.js.coffee",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/views/application/_form.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/assets/javascripts/uou_rails/alert_box.js.coffee",
+		"/home/mateus/desktop/integratum/novo/app/app/views/resultados/analises/comparativo.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/assets/javascripts/resultados.js.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/administracao/_sidebar.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/resultados/_sidebar.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/evolucao/ligacoes/atividade.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/resultados/analises/desempenho.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/resultados/analises/percepcao.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/assets/javascripts/application.js",
+		"/home/mateus/desktop/integratum/novo/app/app/views/administracao/mensagens/_form_fields.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/controllers/administracao/usuarios_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/app/controllers/administracao/mensagens_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/app/controllers/administracao/configuracoes_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/views/application/index.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/views/layouts/sections/_body.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/participantes/participantes/dashboard.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/controllers/participantes/participantes_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/resultados/rankings/_sidebar.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/evolucao/ligacoes/eficiencia.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/evolucao/pesquisas/atividade.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/views/evolucao/pesquisas/progresso.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/controllers/resultados/analises_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/app/controllers/resultados/rankings_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/app/controllers/resultado/analises_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/app/views/layouts/usuarios.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/app/controllers/administracao/usuarios/sessions_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/app/controllers/administracao/usuarios/passwords_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/engines/uou_rails/lib/uou_rails/engine.rb",
+		"/home/mateus/desktop/integratum/novo/app/app/assets/stylesheets/application.css.scss",
+		"/home/mateus/desktop/integratum/novo/app/public/assets/application.css",
+		"/home/mateus/desktop/integratum/novo/app/views/application/_header.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/controllers/application_controller.rb",
+		"/home/mateus/desktop/integratum/novo/config/routes.rb",
+		"/home/mateus/desktop/integratum/novo/app/controllers/evolucao/atendentes_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/controllers/evolucao/participantes_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/views/evolucao/_sidebar.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/views/conteudo/_sidebar.html.erb",
+		"/home/mateus/desktop/integratum/novo/Capfile",
+		"/home/mateus/desktop/integratum/novo/config/deploy.rb",
+		"/home/mateus/desktop/integratum/novo/.gitignore",
+		"/home/mateus/desktop/integratum/old/config/database.yml",
+		"/home/mateus/tools/uou-deploy/Gemfile",
+		"/home/mateus/tools/uou-deploy/Gemfile.lock",
+		"/home/mateus/desktop/integratum/old/config/environment.rb",
+		"/home/mateus/desktop/integratum/novo/app/config/environment.rb",
+		"/home/mateus/desktop/integratum/novo/app/lib/uou_rails/app/controllers/uou_rails/base_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/lib/uou_rails/uou_rails.rb",
+		"/home/mateus/desktop/integratum/novo/app/engines/UouRails/lib/uou_rails.rb",
+		"/home/mateus/desktop/integratum/novo/app/engines/UouRails/lib/uou_rails/engine.rb",
+		"/home/mateus/desktop/integratum/old/config/application.rb",
+		"/home/mateus/desktop/integratum/novo/lib/uou_rails/app/helpers/uou_rails/modal_helper.rb",
+		"/home/mateus/desktop/integratum/novo/lib/uou_rails/app/helpers/uou_rails/application_helper.rb",
+		"/home/mateus/desktop/integratum/novo/lib/uou_rails/app/assets/javascripts/uou_rails/remote_modal.js.coffee",
+		"/home/mateus/desktop/integratum/novo/lib/uou_rails/app/assets/stylesheets/uou_rails/uou_rails.css.scss",
+		"/home/mateus/desktop/integratum/novo/lib/uou_rails/app/controllers/uou_rails/base_controller.rb",
+		"/home/mateus/desktop/integratum/novo/lib/uou_rails/app/views/application/index.html.erb",
+		"/home/mateus/desktop/integratum/novo/lib/uou_rails/app/views/application/_form.html.erb",
+		"/home/mateus/desktop/integratum/novo/lib/uou_rails/app/views/layouts/modal.html.erb",
+		"/home/mateus/desktop/integratum/novo/lib/uou_rails/app/views/componentes/_modal.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/controllers/participantes/participantes_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/models/participante.rb",
+		"/home/mateus/desktop/integratum/novo/Gemfile",
+		"/home/mateus/desktop/integratum/novo/app/views/participantes/participacoes/edit.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/views/participantes/participantes/_form_fields.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/controllers/participantes/empresas_controller.rb",
+		"/home/mateus/desktop/integratum/novo/lib/uou_rails/app/views/layouts/sections/_body.html.erb",
+		"/home/mateus/desktop/integratum/novo/app/controllers/conteudo/questionarios_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/controllers/conteudo/opcoes_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/controllers/conteudo/perguntas_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/controllers/conteudo/blocos_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/controllers/conteudo/grupo_participantes_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/controllers/conteudo/termo_especiais_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/controllers/participantes/grupo_participantes_controller.rb",
+		"/home/mateus/desktop/integratum/novo/app/views/participantes/_sidebar.html.erb",
+		"/home/mateus/desktop/integratum/novo/db/seeds.rb",
+		"/home/mateus/desktop/integratum/novo/lib/tasks/import.rake"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/mateus/desktop/integratum/novo",
+			"/home/mateus/desktop/integratum",
+			"/home/mateus/desktop/sodira/app",
+			"/home/mateus/desktop/citibank/citibank/app",
+			"/home/mateus/desktop/citybank/citybank/app/templates",
+			"/home/mateus/desktop/integratum/app/views/rankings",
+			"/home/mateus/desktop/integratum",
+			"<project>",
+			"<project>/uololou-site",
+			"<project>",
+			"/home/mateus/desktop/maisej/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"this.scope",
+			"inicia",
+			"this.status",
+			"this.player",
+			"this.distancias",
+			"Instance",
+			"Static",
+			"Instance",
+			"tipo",
+			"Instance",
+			"evolucao",
+			"Evolucao",
+			"Evolução",
+			"control-group",
+			"form",
+			"select",
+			"spline",
+			"evolucao",
+			"AnaliseController",
+			"Resultados",
+			",",
+			";",
+			"+",
+			"\"",
+			"content_loader",
+			"dismiss",
+			"uou-rails",
+			"remote-modal",
+			"<%= footer %>",
+			"pessoa_id",
+			"pessoa",
+			"empresa",
+			"Pessoa",
+			":[a-z]*\\s",
+			":[a-z]*",
+			"tipo",
+			"grupo",
+			"grupos",
+			"Grupo",
+			"atendente_ligando_i",
+			"merge",
+			"rh44_13",
+			"rh40_13",
+			"participantes",
+			"Participante",
+			"resultados",
+			"Resultado",
+			"Resultados",
+			"Resultado",
+			"participante_id",
+			"-",
+			"empresa",
+			"Empresa",
+			"empresa",
+			"http",
+			"location",
+			".info",
+			"#welcome, .help",
+			"container",
+			"#maincontent.span12 ",
+			"product",
+			"['thumb']",
+			"image",
+			"images",
+			"backgrou",
+			"details",
+			"info",
+			"order",
+			".container",
+			"container",
+			"font-fam",
+			"font",
+			"ib",
+			"ip",
+			"cart",
+			"searc",
+			"script",
+			"searchbox",
+			"searc",
+			"se",
+			"search",
+			"searchbox",
+			"filter",
+			"page",
+			"cat_accordion",
+			"cate",
+			"dropdow",
+			"if ($categories)",
+			"categories",
+			"menu",
+			"$base_dir[ENV]",
+			"\\$base_dir[ENV]",
+			"$base_dir[ENV]",
+			"category-inf",
+			"welcome",
+			"upload",
+			"CIDADE",
+			"INSERT INTO SBDB.SO",
+			"INSERT INTO SBDB.SÓ",
+			"_parseKey",
+			"this->k",
+			"$this->k",
+			"rsaes_pkcs1_v1_5_encrypt",
+			"_convertPublicKey",
+			"convert",
+			"setPublicKeyFormat",
+			"create",
+			"exponent",
+			"+",
+			"@SBDB",
+			"ROOT",
+			"CONNECT",
+			"\\.\\.\\.",
+			"T_SBDB_DAT",
+			"REM ",
+			"SYS/",
+			"insert",
+			"CONNECT",
+			"\\.\\.\\.",
+			"T_SBDB_DAT",
+			"REM ",
+			"utf8_decode",
+			"ui-state",
+			"/home/mateus/desktop/citibank/citibank/",
+			"/home/mateus/desktop/citibank/citibank/app/",
+			"opacity",
+			"opac",
+			"info"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this.rodada",
+			"status",
+			"player",
+			"distancias",
+			"this",
+			"Cell",
+			"Border",
+			"this",
+			"acompanhamento",
+			"Acompanhamento",
+			"resultados",
+			";",
+			",",
+			"",
+			"empresa",
+			"pessoa",
+			"Empresa",
+			", :",
+			",",
+			"bloco",
+			"blocos",
+			"Bloco",
+			"pessoas",
+			"Pessoa",
+			"participacoes",
+			"Participacao",
+			"Participacoes",
+			"Participacao",
+			"",
+			"participante",
+			"Participante",
+			"participante",
+			"BASE_DIR",
+			"app",
+			"@XE",
+			"SBDB",
+			"REM CONNECT",
+			"REM ...",
+			"USERS",
+			"",
+			"REM CONNECT",
+			"REM ...",
+			"USERS",
+			"",
+			"utf8_encode",
+			"",
+			"assets/images",
+			"",
+			" => ",
+			"'\n => ",
+			": '",
+			", ",
+			"$1",
+			"$2",
+			"$1",
+			"$0",
+			"$2",
+			"$1",
+			"$1;$2",
+			"$1$2",
+			"$0$1",
+			"$0",
+			"$1$2",
+			"$1",
+			",",
+			"",
+			",",
+			"funcionários",
+			"vestuário",
+			"padrões",
+			"Interação",
+			"condições",
+			"logística",
+			"sofisticação",
+			"através",
+			"Satisfação",
+			"Princípios",
+			"peça",
+			"cartões",
+			"catálogos",
+			"agência",
+			"específicos",
+			"gráfica",
+			"exigências",
+			"padrão",
+			"técnico",
+			"história",
+			"conferência",
+			"recepção",
+			"opções",
+			"várias",
+			"competição",
+			"tendência",
+			"veículos",
+			"dispõe",
+			"média",
+			"transferência",
+			"orçamento",
+			"correções",
+			"aprovação",
+			"resolução",
+			"captação",
+			"eficiência",
+			"Máximo",
+			"possível",
+			"soluções",
+			"faça",
+			"identificação",
+			"país",
+			"Há",
+			"Históricos",
+			"Formulários",
+			"Diários",
+			"segurança",
+			"grátis",
+			"Educação",
+			"expedição",
+			"Laminação",
+			"Aplicação",
+			"criação",
+			"promoção",
+			"comunicação",
+			"páginas",
+			"hotéis",
+			"território",
+			"agências",
+			"públicas",
+			" é "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/js/services/game.js",
+					"settings":
+					{
+						"buffer_size": 2716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1582,
+								1582
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 650.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/js/services/cell.js",
+					"settings":
+					{
+						"buffer_size": 3262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2016,
+								2016
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1122.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/js/services/player.js",
+					"settings":
+					{
+						"buffer_size": 690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								594,
+								594
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/css/app.css",
+					"settings":
+					{
+						"buffer_size": 2162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1638,
+								1638
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1479.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/partials/partial1.html",
+					"settings":
+					{
+						"buffer_size": 473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								401,
+								401
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/js/services/border.js",
+					"settings":
+					{
+						"buffer_size": 1706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1423,
+								1423
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 510.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 1047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"bor",
+				"app/js/services/border.js"
+			],
+			[
+				"con",
+				"app/js/controllers.js"
+			],
+			[
+				"game",
+				"app/js/services/game.js"
+			],
+			[
+				"part",
+				"app/partials/partial1.html"
+			],
+			[
+				"play",
+				"app/js/services/player.js"
+			],
+			[
+				"app",
+				"app/css/app.css"
+			],
+			[
+				"cell",
+				"app/js/services/cell.js"
+			],
+			[
+				"border",
+				"app/js/services/border.js"
+			],
+			[
+				"app.ht",
+				"app/index.html"
+			],
+			[
+				"appcs",
+				"app/css/app.css"
+			],
+			[
+				"apphtml",
+				"app/index.html"
+			],
+			[
+				"comp",
+				"app/models/company.rb"
+			],
+			[
+				"researc",
+				"app/controllers/researches_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"revist",
+				"app/views/researches/revistas.html.erb"
+			],
+			[
+				"header",
+				"app/views/application/_header.html.erb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"participcoesedi",
+				"app/views/participantes/participacoes/edit.html.erb"
+			],
+			[
+				"participacoes",
+				"app/controllers/participantes/participacoes_controller.rb"
+			],
+			[
+				"participacaoedit",
+				"app/views/participantes/participacoes/edit.html.erb"
+			],
+			[
+				"product",
+				"config/environments/production.rb"
+			],
+			[
+				"applicatio",
+				"config/application.rb"
+			],
+			[
+				"railsappl",
+				"engines/uou_rails/app/views/layouts/application.html.erb"
+			],
+			[
+				"applicationhel",
+				"engines/uou_rails/app/helpers/uou_rails/application_helper.rb"
+			],
+			[
+				"footer",
+				"engines/uou_rails/app/views/layouts/sections/_footer.html.erb"
+			],
+			[
+				"createmensa",
+				"db/migrate/20131119135923_create_mensagens.rb"
+			],
+			[
+				"evolucaodas",
+				"app/views/evolucao/pesquisas/dashboard.html.erb"
+			],
+			[
+				"applicat",
+				"config/application.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			],
+			[
+				"participantesjs",
+				"app/assets/javascripts/participantes.js.coffee.erb"
+			],
+			[
+				"conteudoside",
+				"app/views/conteudo/_sidebar.html.erb"
+			],
+			[
+				"link",
+				"engines/uou_rails/app/assets/javascripts/uou_rails/linkable_table.js.coffee"
+			],
+			[
+				"participantesliga",
+				"app/controllers/participantes/ligacoes_controller.rb"
+			],
+			[
+				"participanteshow",
+				"app/views/participantes/participantes/show.html.erb"
+			],
+			[
+				"ligacoesform_fields",
+				"app/views/participantes/ligacoes/_form_fields.html.erb"
+			],
+			[
+				"ligacoescontr",
+				"app/controllers/evolucao/ligacoes_controller.rb"
+			],
+			[
+				"partici",
+				"app/models/participante.rb"
+			],
+			[
+				"liga",
+				"app/models/ligacao.rb"
+			],
+			[
+				"ligacoesform",
+				"app/views/participantes/ligacoes/_form_fields.html.erb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"alert",
+				"engines/uou_rails/app/assets/javascripts/uou_rails/alert_box.js.coffee"
+			],
+			[
+				"ligacao",
+				"app/models/ligacao.rb"
+			],
+			[
+				"railsform",
+				"engines/uou_rails/app/views/application/_form.html.erb"
+			],
+			[
+				"railsuou",
+				"engines/uou_rails/app/assets/javascripts/uou_rails/uou_rails.js"
+			],
+			[
+				"uourailscss",
+				"engines/uou_rails/app/assets/stylesheets/uou_rails/uou_rails.css.scss"
+			],
+			[
+				"linkat",
+				"engines/uou_rails/app/assets/javascripts/uou_rails/linkable_table.js.coffee"
+			],
+			[
+				"remotemoda",
+				"engines/uou_rails/app/assets/javascripts/uou_rails/remote_modal.js.coffee"
+			],
+			[
+				"modal",
+				"engines/uou_rails/app/helpers/uou_rails/modal_helper.rb"
+			],
+			[
+				"participantesshow",
+				"app/views/participantes/participantes/show.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"participacoesedit",
+				"app/views/participantes/participacoes/edit.html.erb"
+			],
+			[
+				"participacoescon",
+				"app/controllers/participantes/participacoes_controller.rb"
+			],
+			[
+				"participanterb",
+				"app/models/participante.rb"
+			],
+			[
+				"participantescontr",
+				"app/controllers/participantes/participantes_controller.rb"
+			],
+			[
+				"participantesdas",
+				"app/views/participantes/participantes/dashboard.html.erb"
+			],
+			[
+				"railsapplicatio",
+				"engines/uou_rails/app/helpers/uou_rails/application_helper.rb"
+			],
+			[
+				"applicationhtml",
+				"engines/uou_rails/app/views/layouts/application.html.erb"
+			],
+			[
+				"sectionsbody",
+				"engines/uou_rails/app/views/layouts/sections/_body.html.erb"
+			],
+			[
+				"railsindex",
+				"engines/uou_rails/app/views/application/index.html.erb"
+			],
+			[
+				"applica",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"desem",
+				"app/views/resultados/analises/desempenho.html.erb"
+			],
+			[
+				"ativi",
+				"app/views/evolucao/ligacoes/atividade.html.erb"
+			],
+			[
+				"uou_railscss",
+				"engines/uou_rails/app/assets/stylesheets/uou_rails/uou_rails.css.scss"
+			],
+			[
+				"resultadossi",
+				"app/views/resultados/_sidebar.html.erb"
+			],
+			[
+				"rankingsside",
+				"app/views/resultados/rankings/_sidebar.html.erb"
+			],
+			[
+				"compar",
+				"app/views/resultados/analises/comparativo.html.erb"
+			],
+			[
+				"rankingsc",
+				"app/controllers/resultados/rankings_controller.rb"
+			],
+			[
+				"enginesapp",
+				"engines/uou_rails/app/views/layouts/application.html.erb"
+			],
+			[
+				"usuarios",
+				"engines/uou_rails/app/views/layouts/usuarios.html.erb"
+			],
+			[
+				"evolucaoside",
+				"app/views/evolucao/_sidebar.html.erb"
+			],
+			[
+				"efici",
+				"app/views/evolucao/ligacoes/eficiencia.html.erb"
+			],
+			[
+				"dashboard",
+				"app/views/evolucao/pesquisas/dashboard.html.erb"
+			],
+			[
+				"_footer",
+				"engines/uou_rails/app/views/layouts/sections/_footer.html.erb"
+			],
+			[
+				"ligaca",
+				"app/models/ligacao.rb"
+			],
+			[
+				"appapplicationcss",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"application",
+				"public/assets/application.css"
+			],
+			[
+				"uou_railsengine",
+				"engines/uou_rails/lib/uou_rails/engine.rb"
+			],
+			[
+				"uouapplica",
+				"engines/uou_rails/app/views/layouts/application.html.erb"
+			],
+			[
+				"pass",
+				"app/controllers/administracao/usuarios/passwords_controller.rb"
+			],
+			[
+				"usuariosse",
+				"app/controllers/administracao/usuarios/sessions_controller.rb"
+			],
+			[
+				"envi",
+				"config/environment.rb"
+			],
+			[
+				"engine",
+				"engines/uou_rails/lib/uou_rails/engine.rb"
+			],
+			[
+				"uou_rails",
+				"integratum/novo/app/engines/UouRails/lib/uou_rails.rb"
+			],
+			[
+				"novogem",
+				"integratum/novo/app/Gemfile"
+			],
+			[
+				"novoge",
+				"integratum/novo/app/Gemfile"
+			],
+			[
+				"appli",
+				"integratum/novo/app/config/application.rb"
+			],
+			[
+				"applicationjs",
+				"integratum/novo/app/app/assets/javascripts/application.js"
+			],
+			[
+				"uou",
+				"integratum/novo/app/lib/uou_rails/uou_rails.rb"
+			],
+			[
+				"novoapplicationjs",
+				"integratum/novo/app/app/assets/javascripts/application.js"
+			],
+			[
+				".git",
+				"integratum/novo/.gitignore"
+			],
+			[
+				"base",
+				"integratum/novo/app/lib/uou_rails/app/controllers/uou_rails/base_controller.rb"
+			],
+			[
+				"novoappli",
+				"integratum/novo/app/config/application.rb"
+			],
+			[
+				"novodata",
+				"integratum/novo/app/config/database.yml"
+			],
+			[
+				"novoenvi",
+				"integratum/novo/app/config/environment.rb"
+			],
+			[
+				"gem.",
+				"uou-deploy/Gemfile.lock"
+			],
+			[
+				"cap",
+				"novo/Capfile"
+			],
+			[
+				"side",
+				"novo/app/views/conteudo/_sidebar.html.erb"
+			],
+			[
+				"bloc",
+				"novo/app/models/bloco.rb"
+			],
+			[
+				"seed",
+				"novo/db/seeds.rb"
+			],
+			[
+				"perguntaform",
+				"novo/app/views/participantes/perguntas/_form_fields.html.erb"
+			],
+			[
+				"expor",
+				"novo/lib/tasks/export-pdfs.rake"
+			],
+			[
+				"impor",
+				"novo/lib/tasks/import.rake"
+			],
+			[
+				"participantesside",
+				"novo/app/views/participantes/_sidebar.html.erb"
+			],
+			[
+				"grupopart",
+				"novo/app/controllers/participantes/grupo_participantes_controller.rb"
+			],
+			[
+				"questionarioscon",
+				"novo/app/controllers/conteudo/questionarios_controller.rb"
+			],
+			[
+				"applicationindex",
+				"novo/lib/uou_rails/app/views/application/index.html.erb"
+			],
+			[
+				"applindex",
+				"novo/lib/uou_rails/app/views/application/index.html.erb"
+			],
+			[
+				"empresascon",
+				"novo/app/controllers/participantes/empresas_controller.rb"
+			],
+			[
+				"participantesform",
+				"novo/app/views/participantes/participantes/_form_fields.html.erb"
+			],
+			[
+				"participantesedit",
+				"novo/app/views/participantes/participacoes/edit.html.erb"
+			],
+			[
+				"participantes",
+				"novo/app/controllers/participantes/participantes_controller.rb"
+			],
+			[
+				"_modal",
+				"novo/lib/uou_rails/app/views/componentes/_modal.html.erb"
+			],
+			[
+				"modal_",
+				"novo/lib/uou_rails/app/helpers/uou_rails/modal_helper.rb"
+			],
+			[
+				"moda",
+				"novo/lib/uou_rails/app/views/layouts/modal.html.erb"
+			],
+			[
+				"remote_",
+				"novo/lib/uou_rails/app/assets/javascripts/uou_rails/remote_modal.js.coffee"
+			],
+			[
+				"_form",
+				"old/app/views/admittances/_form.html.erb"
+			],
+			[
+				"uou_ra",
+				"novo/lib/uou_rails/uou_rails.rb"
+			],
+			[
+				"ligacoe",
+				"novo/app/controllers/participantes/ligacoes_controller.rb"
+			],
+			[
+				"partic",
+				"novo/app/models/participante.rb"
+			],
+			[
+				"conta",
+				"novo/app/models/contato.rb"
+			],
+			[
+				"remote",
+				"novo/lib/uou_rails/app/assets/javascripts/uou_rails/remote_modal.js.coffee"
+			],
+			[
+				"addefetii",
+				"novo/db/migrate/20131115203513_add_efetividade_to_ligacao.rb"
+			],
+			[
+				"ligacoesn",
+				"novo/app/controllers/participantes/ligacoes_controller.rb"
+			],
+			[
+				"ligacoesfor",
+				"novo/app/views/participantes/ligacoes/_form_fields.html.erb"
+			],
+			[
+				"status_co",
+				"old/app/models/status_contact.rb"
+			],
+			[
+				"contact",
+				"old/app/models/contact.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"inte",
+				"/home/mateus/desktop/integratum/integratum.sublime-project"
+			],
+			[
+				"sodi",
+				"/home/mateus/desktop/sodira/sodira.sublime-project"
+			],
+			[
+				"sod",
+				"/home/mateus/desktop/sodira/sodira.sublime-project"
+			],
+			[
+				"gram",
+				"/home/mateus/desktop/grambel/grambel.sublime-project"
+			],
+			[
+				"uou deplo",
+				"/home/mateus/desktop/grambel/app/app/views/pedidos/uou-deploy.sublime-project"
+			],
+			[
+				"uou-ub",
+				"/home/mateus/tools/uou-ubuntu/uou-ubuntu.sublime-project"
+			],
+			[
+				"ivec",
+				"/home/mateus/desktop/iveco-web/iveco.sublime-project"
+			],
+			[
+				"sbd",
+				"/home/mateus/desktop/sbd/sbd.sublime-project"
+			],
+			[
+				"inst",
+				"/home/mateus/desktop/instantshop/instantshop.sublime-project"
+			],
+			[
+				"grma",
+				"/home/mateus/desktop/grambel/grambel.sublime-project"
+			],
+			[
+				"gra",
+				"/home/mateus/desktop/grambel/grambel.sublime-project"
+			],
+			[
+				"ins",
+				"/home/mateus/desktop/instantshop/instantshop.sublime-project"
+			],
+			[
+				"gr",
+				"/home/mateus/desktop/grambel/grambel.sublime-project"
+			],
+			[
+				"",
+				"/home/mateus/desktop/maisej/app/maisej.sublime-project"
+			],
+			[
+				"ive",
+				"/home/mateus/desktop/iveco-web/iveco.sublime-project"
+			],
+			[
+				"iveo",
+				"/home/mateus/desktop/iveco-web/iveco.sublime-project"
+			],
+			[
+				"sb",
+				"/home/mateus/desktop/sbd/sbd.sublime-project"
+			],
+			[
+				"citi",
+				"/home/mateus/desktop/citibank/citibank/app/citibank.sublime-project"
+			],
+			[
+				"ci",
+				"/home/mateus/desktop/citibank/citibank/app/citibank.sublime-project"
+			],
+			[
+				"epo",
+				"/home/mateus/desktop/epoca-360/epoca360.sublime-project"
+			],
+			[
+				"copa",
+				"/home/mateus/desktop/copa/copa.sublime-project"
+			],
+			[
+				"cop",
+				"/home/mateus/desktop/copa/copa.sublime-project"
+			],
+			[
+				"mai",
+				"/home/mateus/desktop/maisej/maisej.sublime-project"
+			],
+			[
+				"ifi",
+				"/home/mateus/desktop/ifiat/web/ifiat.sublime-project"
+			],
+			[
+				"me",
+				"/home/mateus/desktop/meucasamento/meucasamento.sublime-project"
+			],
+			[
+				"meu",
+				"/home/mateus/desktop/meucasamento/meucasamento.sublime-project"
+			],
+			[
+				"e",
+				"/home/mateus/desktop/copa/copa.sublime-project"
+			],
+			[
+				"de",
+				"/home/mateus/desktop/copa/copa.sublime-project"
+			],
+			[
+				"ve",
+				"/home/mateus/desktop/vejabh/vejabh.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true
+}

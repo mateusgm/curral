@@ -1,0 +1,6 @@
+<div id="board">
+	<div id="{{id}}" ng-repeat="(id,cell) in game.board" class="cell row-{{cell.i}} column-{{cell.j}}" ng-class="{last: cell.j == bsize}">
+		<span class="player {{ cell.status(game.rodada) }}" ng-click="game.make_move(game.me(), cell)">{{ me.distancia(game.rodada, cell).valor }}</span>
+		<span ng-repeat="(id,border) in cell.borders" class="border {{ border.direcao(cell) }} {{ border.status(game.rodada) }}" ng-click="game.make_move(game.me(), border)"></span>
+	</div>
+</div>
