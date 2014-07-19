@@ -2,7 +2,7 @@
 
 /* tabuleiro */
 
-#board {
+.wrapper {
   display: table;
   margin: auto;
 }
@@ -19,21 +19,37 @@
   clear: both;
 }
 
+/* cabecalho */
+
+.rodada {
+  float: right;
+  margin-right: 8px;
+  margin-top: 3px;
+}
+
+h2 span {
+  position: relative;
+  display: inline-block;
+  top: 10px;
+}
 
 /* player */
 
 .player {
-  display: block;
   margin: auto;
   width: 35px;
   height: 35px;
   position: relative;
-  top: 19px;
   text-align: center;
   line-height: 2.2em;
   cursor: pointer;
   border-radius: 18px;
 }
+
+  #board .player {
+    display: block;
+    top: 19px;
+  }
 
 .red {
   background: red;
@@ -60,19 +76,21 @@
   z-index: 100;
 }
 
-
-  .border.cercada, .border.conjugada, .border:hover {
+  .border.cercada, .border:hover {
     background: #888;
   }
 
-    .border.conjugada.top, .border.conjugada.down {
-      width: 100%;
+    .border.bloqueada, .border.conjugada {
+      background: transparent; 
     }
 
-    .border.conjugada.left, .border.conjugada.right {
-      height: 100%;
+  /*  .border.bloqueada {
+      background: blue;
     }
 
+    .border.conjugada {
+      background: yellow;
+    }*/
 
   .border.top, .border.down {
     width: 150px;
@@ -129,7 +147,6 @@
     cursor: auto;
     background: transparent;
   }
-
 
 /* app css stylesheet */
 

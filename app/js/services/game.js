@@ -5,11 +5,13 @@ var Game = function(size, players) {
 	// init
 
 	this.init = function() {
-		this.rodada  = 0;
+		Game.set_instance(this);
 		this.board   = [];
 		this.players = [];
+		this.rodada  = 0;
 		this.build_board(size);
 		this.build_players(players);
+		this.rodada  = 1;
 	}
 
 	this.build_board = function(size) {
@@ -63,18 +65,21 @@ var Game = function(size, players) {
 
 	this.pode_mover = function(player, cell) {
 		var border = Border.get(player.position(this.rodada), cell);
-		return border && !border.status(this.rodada) && !cell.player(this.rodada); 
+		return border && !border.status(this.rodada) && !cell.status(this.rodada); 
 	}
 
 	this.pode_cercar = function(player, border) {
-		var rodada_simulada = this.rodada + 1;
-		border.cerca(rodada_simulada);
-		this.constroi_mapa(rodada_simulada, player);
-		var result = player.distancia(rodada_simulada).valor != 100000;
-		if(!result) border.descerca(rodada_simulada);
-		return result;
+		return !this.cerca_fecha_caminho(player, border) && border.pode_cercar(this.rodada);
 	}
 
+	this.cerca_fecha_caminho = function(player, border) {
+		var rodada_simulada = this.rodada;
+		border.cerca(rodada_simulada);
+		this.constroi_mapa(rodada_simulada, player);
+		var result = player.distancia(rodada_simulada).valor == 100000;
+		border.descerca(rodada_simulada);
+		return result;
+	}
 
 	// mapas
 
@@ -86,12 +91,11 @@ var Game = function(size, players) {
 	}
 
 	this.constroi_mapa = function(rodada, player) {
-		var destino = { i: 9 };
 		for(var b in this.board) {
-			var valor = this.board[b].esta_em(destino) ? 0 : 100000;
-			this.board[b].inicializa_distancia(rodada, player.color, valor);
+			var valor = this.board[b].esta_em(player.destino) ? 0 : 100000;
+			this.board[b].set_distancia(rodada, player.color, valor);
 		}
-		Cell.get(9,5).calcula_distancia(rodada, player.color, destino);
+		Cell.get(9,5).calcula_distancia(rodada, player.color, player.destino);
 	}
 
 
@@ -109,8 +113,14 @@ var Game = function(size, players) {
 
 	// static 
 
-	Game.foo = function() {
-		return 'bar';
+	var instance;
+
+	Game.set_instance = function(_instance) {
+		instance = _instance;
+	}
+
+	Game.instance = function() {
+		return instance;
 	}
 
 

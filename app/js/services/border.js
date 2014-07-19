@@ -27,25 +27,53 @@ var Border = function(from, to){
 		return (from == this.from) ? this.tipo : from.direction(this.from);
 	}
 
+	// status
+
+	this.set_status = function(rodada, status) {
+		var status_atual = this.status(rodada);
+		if(status_atual == undefined || (status_atual == 'bloqueada' && status == 'conjugada'))
+			history.add(status, rodada);
+	}
+
+	this.undo_status = function(rodada) {
+		history.remove(rodada);
+	}
+
 	this.status = function(rodada) {
 		return history.get(rodada);
 	}
 
-	this.set_status = function(rodada, status) {
-		history.add(status, rodada);
+	this.esta_bloqueada = function(rodada) {
+		var status = this.status(rodada);
+		return status == 'cercada' || status == 'conjugada';
 	}
 
 	// movimentos
 
 	this.cerca = function(rodada) {
-		if(this.eh_cercavel(scope)) {
-			this.set_status(rodada, 'cercada');
-			this.conjugada().set_status(rodada, 'conjugada');
-		}
+		this.set_status(rodada, 'cercada');
+		if(this.conjugada()) this.conjugada().set_status(rodada, 'conjugada');
+		if(this.cruzada())   this.cruzada().set_status(rodada, 'bloqueada');
+		if(this.vizinha())   this.vizinha().set_status(rodada, 'bloqueada');
 	}
 
-	this.eh_cercavel = function(rodada) {
-		return !(this.status(rodada) || this.conjugada().status(rodada) || this.cruzada().status(rodada) == 'cercada');
+	this.descerca = function(rodada) {
+		this.undo_status(rodada);
+		if(this.conjugada()) this.conjugada().undo_status(rodada);
+		if(this.cruzada())   this.cruzada().undo_status(rodada);
+		if(this.vizinha())   this.vizinha().undo_status(rodada);
+	}
+
+	this.pode_cercar = function(rodada) {
+		return !(this.status(rodada) || this.conjugada().status(rodada) == 'cercada' || this.cruzada().status(rodada) == 'cercada');
+	}
+
+
+	// relacoes
+
+	this.vizinha = function() {
+		if(this.eh_horizontal()) return Border.get(this.from.left(), this.to.left());
+		else return Border.get(this.from.top(), this.to.top());	
 	}
 
 	this.conjugada = function() {
@@ -69,7 +97,7 @@ var Border = function(from, to){
 	// colecao
 
 	Border.get = function(from, to) {
-		if(borders[from.id]) return borders[from.id][to.id];
+		if(from && to && borders[from.id]) return borders[from.id][to.id];
 	}
 
 	Border.add = function(border) {

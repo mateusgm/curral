@@ -4,14 +4,14 @@ var Cell = function(i,j){
 
 	var directions = ['top', 'right', 'down', 'left'],
 			borders    = {},
-			history    = new History();
+			statuses   = new History(),
+			distances  = new History();
 
 	this.init = function(i,j) {
 		this.i        = i;
 		this.j        = j;
 		this.id       = Cell.id(i, j);
 		this.borders  = borders;
-		add_history(0);
 		Cell.add(this);
 	}
 
@@ -33,12 +33,8 @@ var Cell = function(i,j){
 		return borders[neighbor];
 	}
 
-	this.player = function(rodada) {
-		return history.get(rodada).player;
-	}
-
 	this.status = function(rodada) {
-		return history.get(rodada).status;
+		return statuses.get(rodada);
 	}
 	
 
@@ -71,14 +67,10 @@ var Cell = function(i,j){
 
 	// movements
 
-	var add_history = function(turn) {
-		return history.add({ distancias: {} }, turn);
-	}
-
 	this.possiveis_passos = function(rodada) {
 		var steps = [];
 		for(var neighbor in this.borders)
-			if(!this.border(neighbor).status(rodada))
+			if(!this.border(neighbor).esta_bloqueada(rodada))
 				steps.push(Cell.by_id(neighbor));
 		return steps;
 	}
@@ -91,21 +83,22 @@ var Cell = function(i,j){
 	}
 
 	this.coloca = function(player, turn) {
-		var rodada = history.get(turn);
-		if(!rodada) rodada = add_history(turn);
-		rodada.player = player;
-		rodada.status = player ? player.color : '';
+		var status = player ? player.color : '';
+		statuses.add(status, turn);
 	}
 
 
 	// distancias
 
 	this.distancia = function(turn, id) {
-		return history.get(turn).distancias[id];
+		var distancia = distances.get(turn, false);
+		if(!distancia)     distancia     = distances.add({}, turn);
+		if(!distancia[id]) distancia[id] = {};
+		return distancia[id];
 	}
 
-	this.inicializa_distancia = function(turn, id, valor) {
-		history.get(turn).distancias[id] = { valor: valor, precalculada: false };
+	this.set_distancia = function(rodada, id, valor) {
+		this.distancia(rodada, id).valor = valor;
 	}
 
 	this.distancia_precalculada = function(turn, id) {
@@ -113,7 +106,7 @@ var Cell = function(i,j){
 	}
 
 	this.distancia_esta_precalculada = function(turn, id) {
-		return this.distancia(turn, id).precalculada;
+		return this.distancia(turn, id).precalculada == true;
 	}
 
 	this.informa_distancia = function(turn, id, valor) {

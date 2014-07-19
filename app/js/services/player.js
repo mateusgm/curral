@@ -1,14 +1,16 @@
 'use strict';
 
-var Player = function(type, color, destino, cercas) {
+var Player = function(type, color, start, destino, cercas) {
 
 	var n_caminhos = 0,
 			positions  = new History();
 
 	this.init = function() {
+		this.id      = start.id;
 		this.type    = type;
 		this.color   = color;
 		this.cercas  = cercas;
+		this.destino = destino;
 	}
 
 	// caminho
@@ -22,9 +24,9 @@ var Player = function(type, color, destino, cercas) {
 		this.position(rodada).coloca(this, rodada);
 	}
 
-	this.distancia = function(scope, cell) {
-		if (cell) return cell.distancia(scope, this.color);
-		else return this.position[scope].distancia(scope, this.color);
+	this.distancia = function(rodada, cell) {
+		if (cell) return cell.distancia(rodada, this.color);
+		else return this.position(rodada).distancia(rodada, this.color);
 	}
 
 	// movimento
