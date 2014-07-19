@@ -1,8 +1,12 @@
 
-<h2>Jogador da vez: <span class="player {{ game.me().color }}"></span><span class="rodada">{{ game.rodada }}</span></h2>
+<h2>
+  <span class="currais">Currais: <span ng-repeat="player in game.players" class="{{ player.color }}">{{ player.cercas }}</span></span>
+  <span class="jogador">Jogador da Vez: <span class="player {{ game.current_player().color }}"></span></span>
+</h2>
 <div id="board"> 
 	<div id="{{id}}" ng-repeat="(id,cell) in game.board" class="cell row-{{cell.i}} column-{{cell.j}}" ng-class="{last: cell.j == bsize}">
-		<span class="player {{ cell.status(game.rodada) }}" ng-click="game.make_move(game.me(), cell)"><!-- {{ me.distancia(game.rodada, cell).valor }} --></span>
-		<span ng-repeat="(id,border) in cell.borders" class="border {{ border.direcao(cell) }} {{ border.status(game.rodada) }}" ng-click="game.make_move(game.me(), border)"></span>
+		<span class="player {{ cell.status(game.rodada) }}" ng-click="game.make_move(game.current_player(), cell)"><!-- {{ me.distancia(game.rodada, cell).valor }} --></span>
+		<span ng-repeat="(id,border) in cell.borders" class="border {{ border.direcao(cell) }} {{ border.status(game.rodada) }}" ng-click="game.make_move(game.current_player(), border)"></span>
 	</div>
 </div>
+<span class="rodada">Jogada: {{ game.rodada - 1 }}</span>

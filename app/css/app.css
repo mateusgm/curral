@@ -21,16 +21,19 @@
 
 /* cabecalho */
 
+h2 .currais span {
+  margin-right: 7px;
+}
+
+h2 .jogador {
+  float: right;
+  margin-top: -14px;
+}
+
 .rodada {
   float: right;
   margin-right: 8px;
   margin-top: 3px;
-}
-
-h2 span {
-  position: relative;
-  display: inline-block;
-  top: 10px;
 }
 
 /* player */
@@ -45,6 +48,11 @@ h2 span {
   cursor: pointer;
   border-radius: 18px;
 }
+
+  h2 .player {
+    display: inline-block;
+    top: 10px;
+  }
 
   #board .player {
     display: block;

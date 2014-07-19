@@ -57,19 +57,20 @@ var Game = function(size, players) {
 			movimento_valido = true;
 		}
 		if(choice instanceof Border && this.pode_cercar(player, choice)) {
-			choice.cerca(this.rodada);
+			player.cerca(choice, this.rodada);
 			movimento_valido = true;
 		}
 		if(movimento_valido) this.rodada++;
+		if(player.position(this.rodada).esta_em(player.destino)) alert(player.color + ' ganhou!');
 	}
 
 	this.pode_mover = function(player, cell) {
 		var border = Border.get(player.position(this.rodada), cell);
-		return border && !border.status(this.rodada) && !cell.status(this.rodada); 
+		return border && !border.esta_bloqueada(this.rodada) && !cell.status(this.rodada); 
 	}
 
 	this.pode_cercar = function(player, border) {
-		return !this.cerca_fecha_caminho(player, border) && border.pode_cercar(this.rodada);
+		return !this.cerca_fecha_caminho(player, border) && border.pode_cercar(this.rodada) && player.cercas > 0;
 	}
 
 	this.cerca_fecha_caminho = function(player, border) {
@@ -103,6 +104,10 @@ var Game = function(size, players) {
 
 	this.me = function() {
 		return this.players[0];
+	}
+
+	this.current_player = function() {
+		return this.players[this.rodada % this.players.length];
 	}
 
 	this.init();

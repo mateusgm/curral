@@ -7,7 +7,7 @@ angular.module('myApp.controllers', []).
   controller('BoardController', function($scope) {
 
   	$scope.bsize   = 9;
-  	$scope.players = 4;
+  	$scope.players = 2;
   	$scope.game    = new Game($scope.bsize, $scope.players);
   	$scope.me      = $scope.game.me();
   

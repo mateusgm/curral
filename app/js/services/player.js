@@ -31,6 +31,11 @@ var Player = function(type, color, start, destino, cercas) {
 
 	// movimento
 
+	this.cerca = function(cell, rodada) {
+		cell.cerca(rodada);
+		this.cercas--;
+	}
+
 	this.move = function(cell, rodada) {
 		if(this.position(rodada)) this.position(rodada).coloca(null, rodada);
 		this.set_position(cell, rodada);
