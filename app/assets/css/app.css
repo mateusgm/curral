@@ -1,10 +1,18 @@
 
+* {
+  padding: 0;
+  margin: 0;
+}
 
 /* tabuleiro */
 
 .wrapper {
   display: table;
   margin: auto;
+}
+
+#board {
+  margin-top: 1.2em;
 }
 
 .cell {
@@ -159,30 +167,26 @@ h2 .jogador {
 /* app css stylesheet */
 
 .menu {
-  list-style: none;
   border-bottom: 0.1em solid black;
-  margin-bottom: 2em;
-  padding: 0 0 0.5em;
+  margin-bottom: 1em;
 }
 
-.menu:before {
-  content: "[";
+.menu ul {
+  list-style: none;
+  margin: 1em auto;
+  display: table;
 }
 
-.menu:after {
-  content: "]";
-}
-
-.menu > li {
+.menu ul > li {
   display: inline;
 }
 
-.menu > li:before {
+.menu ul > li:before {
   content: "|";
-  padding-right: 0.3em;
+  padding: 0 0.3em;
 }
 
-.menu > li:nth-child(1):before {
+.menu ul > li:nth-child(1):before {
   content: "";
   padding: 0;
 }

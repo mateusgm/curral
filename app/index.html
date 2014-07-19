@@ -1,37 +1,46 @@
 <!doctype html>
-<html lang="en" ng-app="myApp">
-<head>
-  <meta charset="utf-8">
-  <title>Curral Game</title>
-  <link rel="stylesheet" href="css/app.css"/>
-</head>
-<body>
-<!--   <ul class="menu">
-    <li><a href="#/view1">view1</a></li>
-    <li><a href="#/view2">view2</a></li>
-  </ul> -->
+<html lang="en" ng-app="GamesApp">
 
-  <div class="wrapper" ng-view></div>
+  <head>
+    <meta charset="utf-8">
+    <title>Board Games</title>
+    <link rel="stylesheet" href="assets/css/app.css"/>
+  </head>
 
-  <div>Curral Game: v<span app-version></span></div>
+  <body>
 
-  <script src="lib/jquery.min.js"></script>
-  <!-- In production use:
-  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
-  -->
-  <script src="lib/angular/angular.js"></script>
-  <script src="lib/angular/angular-route.js"></script>
+    <div class="menu">      
+      <ul>
+        <li><a href="#/curral">Curral</a></li>
+        <li><a href="#/edges">Edges</a></li>
+        <li><a href="#/reversi">Reversi</a></li>
+      </ul>
+    </div>
 
-  <script src="js/services/history.js"></script>
-  <script src="js/services/border.js"></script>
-  <script src="js/services/cell.js"></script>
-  <script src="js/services/player.js"></script>
-  <script src="js/services/game.js"></script>
+    <div class="wrapper" ng-view>
+      
+    </div>
 
-  <script src="js/app.js"></script>
-  <script src="js/services.js"></script>
-  <script src="js/controllers.js"></script>
-  <script src="js/filters.js"></script>
-  <script src="js/directives.js"></script>
-</body>
+    <div>
+      v<span app-version></span>
+    </div>
+
+    <script src="lib/jquery.min.js"></script>
+    <script src="lib/angular/angular.js"></script>
+    <script src="lib/angular/angular-route.js"></script>
+
+    <script src="services/history.js"></script>
+
+    <script src="services/curral/border.js"></script>
+    <script src="services/curral/cell.js"></script>
+    <script src="services/curral/player.js"></script>
+    <script src="services/curral/game.js"></script>
+    <script src="controllers/curral_controller.js"></script>
+
+    <script src="filters/filters.js"></script>
+    <script src="directives/directives.js"></script>
+    <script src="services/services.js"></script>
+    <script src="app.js"></script>
+  </body>
+
 </html>

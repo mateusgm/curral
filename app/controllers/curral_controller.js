@@ -2,9 +2,9 @@
 
 /* Controllers */
 
-angular.module('myApp.controllers', []).
+angular.module('GamesApp.controllers', []).
 
-  controller('BoardController', function($scope) {
+  controller('CurralController', function($scope) {
 
   	$scope.bsize   = 9;
   	$scope.players = 2;
