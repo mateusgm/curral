@@ -70,7 +70,7 @@ var Game = function(size, players) {
 	}
 
 	this.pode_cercar = function(player, border) {
-		return !this.cerca_fecha_caminho(player, border) && border.pode_cercar(this.rodada) && player.cercas > 0;
+		return border.pode_cercar(this.rodada) && player.cercas > 0 && !this.cerca_fecha_algum_caminho(border);
 	}
 
 	this.cerca_fecha_caminho = function(player, border) {
@@ -80,6 +80,12 @@ var Game = function(size, players) {
 		var result = player.distancia(rodada_simulada).valor == 100000;
 		border.descerca(rodada_simulada);
 		return result;
+	}
+
+	this.cerca_fecha_algum_caminho = function(border) {
+		for(var p in this.players)
+			if(this.cerca_fecha_caminho(this.players[p], border)) return true;
+		return false;
 	}
 
 	// mapas

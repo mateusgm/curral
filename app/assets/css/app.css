@@ -183,7 +183,7 @@ h2 .jogador {
 
 .menu ul > li:before {
   content: "|";
-  padding: 0 0.3em;
+  padding: 0 0.5em;
 }
 
 .menu ul > li:nth-child(1):before {
